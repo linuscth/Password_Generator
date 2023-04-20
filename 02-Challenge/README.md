@@ -2,13 +2,9 @@
 
 
 
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## description 
 
+this week's challenge is to implement algorithms on  jS and create a password generator. this password generator has to follow the guidences from users whether or not to include certain characters. 
 
 ## Technologies Used
 - HTML5
