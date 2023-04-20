@@ -4,17 +4,13 @@
 
 ## description 
 
-this week's challenge is to implement algorithms on  jS and create a password generator. this password generator has to follow the guidences from users whether or not to include certain characters. 
+* this week's challenge is to implement algorithms on  jS and create a password generator. this password generator has to follow the guidences from users whether or not to include certain characters. 
+
+
 
 ## Technologies Used
 - HTML5
 - JavaScript
-
-
-
-
-
-
 
 
 ## Setup
@@ -30,6 +26,7 @@ this week's challenge is to implement algorithms on  jS and create a password ge
 * 9. I return the string. 
 
 
-
-
+## website
+* repo: https://github.com/linuscth/w3_challenge_JS_Password_Generator
+* url: https://linuscth.github.io/w3_challenge_JS_Password_Generator/
 
