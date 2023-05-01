@@ -30,3 +30,5 @@
 * repo: https://github.com/linuscth/w3_challenge_JS_Password_Generator
 * url: https://linuscth.github.io/w3_challenge_JS_Password_Generator/
 
+# screenshot 
+![screenshot.](./02-Challenge/Assets/screenshot1.png)
