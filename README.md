@@ -4,7 +4,7 @@
 
 ## description 
 
-* this week's challenge is to implement algorithms on  jS and create a password generator. this password generator has to follow the guidences from users whether or not to include certain characters. 
+* this web appplication invloved implement algorithms on  jS and create a password generator. 
 
 
 
@@ -14,7 +14,7 @@
 
 
 ## Setup
-* In the week 3 challenge, I completed iit by spliting the challenge into couple sub-tasks. 
+
 * 1. I define variables on eeach set of possible characters including number set, uppercase letters set, lowercase letter set, and special character set. 
 * 2. I placed a lengthQuestion to figure out the length of the needed password. 
 * 3. I use an if statement to limit the length of the passsword to be at least 8 characters and no more than 128. 
